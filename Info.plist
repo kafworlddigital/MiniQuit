@@ -7,6 +7,8 @@
   <key>CFBundleName</key><string>MiniQuit</string>
   <key>CFBundleVersion</key><string>0.1</string>
   <key>CFBundleShortVersionString</key><string>0.1</string>
+  <key>CFBundleIconFile</key><string>MiniQuit</string>
+  <key>CFBundleIconName</key><string>MiniQuit</string>
   <key>CFBundlePackageType</key><string>APPL</string>
   <key>LSUIElement</key><true/>
   <key>NSHighResolutionCapable</key><true/>
